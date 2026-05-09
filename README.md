@@ -42,7 +42,7 @@ That's it. No npm install, no Webpack, no framework setup.
 
 ### 2. Transactions
 - Full table with Date, Description, Category, Type, Amount
-- **Search** — real-time text filtering across description and category
+- **Search**— real-time text filtering across description and category
 - **Filters** — by category, type (income/expense), and month
 - **Sorting** — click any column header to sort ascending/descending
 - **Pagination** — 8 per page with navigation controls
